@@ -1,4 +1,4 @@
-package com.muhaiminurabir.call_recorder;
+spackage com.muhaiminurabir.call_recorder;
 
 import android.content.Context;
 import android.content.Intent;
